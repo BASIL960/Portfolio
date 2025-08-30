@@ -1,5 +1,5 @@
 body {
-  background-image: url("../public/star-4773.gif");
+  background-image: url("./public/star-4773.gif");
   background-size: cover;         /* Make it cover the entire viewport */
   background-position: center;    /* Center the GIF */
   background-repeat: no-repeat;   /* Don’t tile */
@@ -26,4 +26,5 @@ body {
     font-size: 1.2rem;
     color: #316af8; /* Gold color for emphasis */
     
+
 }

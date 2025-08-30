@@ -1,5 +1,5 @@
 body {
-  background-image: url("./public/star-4773.gif");
+  background-image: url("./star-4773.gif");
   background-size: cover;         /* Make it cover the entire viewport */
   background-position: center;    
   background-repeat: no-repeat;   /* Don’t tile */
@@ -28,4 +28,5 @@ body {
     
 
 }
+
 

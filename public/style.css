@@ -1,7 +1,7 @@
 body {
   background-image: url("./public/star-4773.gif");
   background-size: cover;         /* Make it cover the entire viewport */
-  background-position: center;    /* Center the GIF */
+  background-position: center;    
   background-repeat: no-repeat;   /* Don’t tile */
   background-attachment: fixed;   /* Fix while scrolling (optional) */
 }
@@ -14,7 +14,7 @@ body {
 }
 .MySpan {
     
-    color: #316af8; /* Gold color for emphasis */
+    color: #316af8; 
 }
 .backgroundColor{
     background-color: rgb(212, 212, 212);
@@ -24,7 +24,8 @@ body {
     font-style: italic;
     font-weight: bold;
     font-size: 1.2rem;
-    color: #316af8; /* Gold color for emphasis */
+    color: #316af8; 
     
 
 }
+
